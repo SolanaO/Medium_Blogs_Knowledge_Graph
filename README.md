@@ -423,7 +423,7 @@ I will apply the PageRank algorithm, in stream mode, to detect which topics are 
 
 We can use the approximate Betweeness Centrality to observe the most influential topics over the information flow in the cotopics network I built.
 
-![betweeness](./images/betweeness.png)
+![betweeness](./images/betweness.png)
 
 Once we are done working with the projection we can remove it:
 
