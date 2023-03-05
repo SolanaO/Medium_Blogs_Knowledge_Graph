@@ -1,6 +1,6 @@
 
 
-# TDS blogposts spanning a period of 5 years
+# Knowledge Graph for Medium Blogs
 
 ## Data Collection
 
