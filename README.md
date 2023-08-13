@@ -1,6 +1,6 @@
 
 
-# Knowledge Graph for Medium Blogs
+# Knowledge Graph for Towards Data Science Blogs
 
 ## Data Collection
 
